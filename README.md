@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Aman Singh
 
 
-**Who believes in growth is by doing not just dreaming**
+## **Who believes in growth is by doing not just dreaming**
 
 
 
