@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about how to use Generative AI best for your business or enterprise
 - 📫 How to reach me: https://www.linkedin.com/in/aman-singh-634296258
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm also a front end developer, learning along with building projects
+- ⚡ Fun fact: I'm also a front end developer, learning along with building projects ;) 
 
