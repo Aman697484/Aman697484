@@ -1,16 +1,7 @@
 ## Hi 👋, I'm Aman Singh
 
 
-## **Who believes in growth is by doing not just dreaming**
-
-
-
-
-<!--
-**Aman697484/Aman697484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-Here are some ideas to get you started:
+##  🤖 About Me: 
 
 -🔭 I’m currently working on Python Projects 
 
