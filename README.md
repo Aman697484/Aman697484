@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Aman Singh
+## Hi 👋, I'm Aman Singh
 
 
 
