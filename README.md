@@ -2,7 +2,7 @@
 
 <!--
 **Aman697484/Aman697484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python Projects 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/aman-singh-634296258
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also a front end developer, learning along with building projects
--->
+
