@@ -1,4 +1,5 @@
 ## Hi there 👋, I'm Aman Singh
+<img src="data:image/svg+xml;base64,YOUR_BASE64_ENCODED_STRING" alt="Profile Icon" width="200">
 
 <!--
 **Aman697484/Aman697484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
