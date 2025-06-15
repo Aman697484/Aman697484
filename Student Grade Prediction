@@ -1,0 +1,46 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+
+# Load the dataset directly from UCI repository or locally if downloaded
+url = "https://archive.ics.uci.edu/ml/machine-learning-databases/00320/student.zip"
+
+# Extract and read the Portuguese dataset
+import zipfile
+import urllib.request
+import io
+
+response = urllib.request.urlopen(url)
+zip_ref = zipfile.ZipFile(io.BytesIO(response.read()))
+data = pd.read_csv(zip_ref.open("student-mat.csv"), sep=';')
+
+# Encode categorical variables
+data_encoded = pd.get_dummies(data, drop_first=True)
+
+# Check correlation with final grade (G3)
+correlation = data_encoded.corr()
+top_features = correlation['G3'].abs().sort_values(ascending=False)[1:16]  # top 15 features excluding G3
+
+# Select features
+X = data_encoded[top_features.index]
+y = data_encoded['G3']
+
+# Train-test split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+def evaluate_model(true, pred, model_name):
+    print(f"🔹 {model_name} Evaluation:")
+    print("MAE:", mean_absolute_error(true, pred))
+    print("MSE:", mean_squared_error(true, pred))
+    print("RMSE:", np.sqrt(mean_squared_error(true, pred)))
+    print("R2 Score:", r2_score(true, pred))
+    print("-" * 40)
+
+evaluate_model(y_test, y_pred_lr, "Linear Regression")
+evaluate_model(y_test, y_pred_rf, "Random Forest Regressor")
