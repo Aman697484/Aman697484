@@ -17,8 +17,7 @@
 
 - 🎯 Looking for an AI/ML internship opportunity to apply my skills in a real-world setting while learning from experienced professionals.
 
-- 💼 Reach me for any discussions, internships, or collaborations: LinkedIn - www.linkedin.com/in/
-aman-singh-634296258
+- 💼 Reach me for any discussions, internships, or collaborations: LinkedIn - www.linkedin.com/in/aman-singh-634296258
 
 🧩 TECHNICAL INTERESTS
 - AI & Machine Learning | Deep Learning | NLP
