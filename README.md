@@ -24,9 +24,9 @@
 
 - Generative AI & LLMs | Prompt Engineering
 
-- Data Analysis | Model Deployment | Web APIs
+- Data Analysis | Model Deployment | FastAPI
 
-- Python Programming | Front-End Basics | Continuous Improvement
+- Python Programming | SQL | Continuous Improvement
 
 ⚡ FUN FACT
 - I'm currently diving deep into LLMs (Large Language Models) and NLP just for the love of learning — and building mini AI tools for fun!
