@@ -1,4 +1,4 @@
-👋 HI THERE, I’m Aman Singh
+👋 HI THERE!, I’m Aman Singh
 
 - A passionate AI/ML developer dedicated to continuous learning, building real-world solutions, and contributing to meaningful projects in Artificial Intelligence, Deep Learning, and Generative AI.
 
