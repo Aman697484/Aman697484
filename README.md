@@ -1,20 +1,31 @@
-## Hi 👋, I'm Aman Singh
+👋 HI THERE, I’m Aman Singh
+A passionate AI/ML developer dedicated to continuous learning, building real-world solutions, and contributing to meaningful projects in Artificial Intelligence, Deep Learning, and Generative AI.
 
+🤖 ABOUT ME 
+- 🧠 Actively working on Machine Learning and Deep Learning projects with a focus on solving real-world problems.
 
-##  🤖 About Me: 
+- 🚀 Constantly exploring new concepts in ML, LLMs, and NLP, with a strong inclination toward Generative AI and AI-powered automation.
 
--🔭 I’m currently working on Machine Learning Projects 
+- 🤝 Open to collaborating on impactful AI/ML projects, particularly those involving product development or societal impact.
 
--🌱 I’m currently learning new skills in ML and learning by doing projects while looking for an internship in my domain
+- 🛠️ Skilled in building and deploying ML solutions using Python, Scikit-learn, Pandas, and Matplotlib — with growing experience in Flask and FastAPI for model deployment.
 
--👯 I’m looking to collaborate on Machine Learning Projects
+- 🔎 Currently learning to work with TensorFlow, Keras, and PyTorch to gain hands-on exposure to state-of-the-art deep learning frameworks.
 
--🤔 I’m looking for help with Building Real-world Solutions
+- 🌱 A strong believer in self-driven learning, constantly participating in open-source projects, GitHub activities, and Kaggle competitions.
 
--💬 Ask me about how to use Generative AI best for your business or enterprise
+- 🎯 Looking for an AI/ML internship opportunity to apply my skills in a real-world setting while learning from experienced professionals.
 
--📫 How to reach me: https://www.linkedin.com/in/aman-singh-634296258
+- 💼 Reach me for any discussions, internships, or collaborations: LinkedIn - Aman Singh
 
--😄 Pronouns: he/him
+🧩 TECHNICAL INTERESTS
+- AI & Machine Learning | Deep Learning | NLP
 
--⚡ Fun fact: I'm also learning about LLMs and NLP just as my interest 
+- Generative AI & LLMs | Prompt Engineering
+
+- Data Analysis | Model Deployment | Web APIs
+
+- Python Programming | Front-End Basics | Continuous Improvement
+
+⚡ FUN FACT
+- I'm currently diving deep into LLMs (Large Language Models) and NLP just for the love of learning — and building mini AI tools for fun!
